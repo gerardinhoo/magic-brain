@@ -2,6 +2,7 @@
 
 The "face-recognition-brain" is an app that allows the detection of faces when you enter an URL.
 ## How to run this project:
+### The Front-end of "magic-brain" project.
 
    * Clone this repository
    * Run npm Install
