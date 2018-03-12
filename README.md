@@ -9,4 +9,5 @@ The "face-recognition-brain" is an app that allows the detection of faces when y
    * Run npm start
    * You must add your own API key in the src/App.js file to connect to Clarifai.
    * The Clarifai API can be grabbed [here](https://www.clarifai.com/).
+   * View rthe project by clickingg [here](https://magic-brain.herokuapp.com/).
 
